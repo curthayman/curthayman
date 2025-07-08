@@ -3,7 +3,7 @@
 - 🛡️ Certified Ethical Hacker & Pentester
 - 💻 Web Developer & WordPress Administrator
 - 🐞 Bug Bounty Hunter (always learning, always hunting)
-- 🔒 Passionate about cybersecurity, open source, and building secure, modern web applications
+- 🔒 *Passionate* about cybersecurity, open source, and building secure, modern web applications
 
 ---
 
