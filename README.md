@@ -4,6 +4,7 @@
 - 💻 Web Developer & WordPress Administrator
 - 🐞 Bug Bounty Hunter (always learning, always hunting)
 - 🔒 *Passionate* about cybersecurity, open source, and building secure, modern web applications
+- 👨🏽‍💻 Read more about me here [![Website](https://img.shields.io/badge/Website-curthayman.com-blue?style=flat-square&logo=google-chrome)](https://curthayman.com
 
 ---
 
