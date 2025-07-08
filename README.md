@@ -1,3 +1,4 @@
+![Curt Hayman Cyber Banner](https://raw.githubusercontent.com/curthayman/cyber-portfolio/refs/heads/main/public/images/image.png)
 # ✌🏾 Hi, I’m Curt Hayman, CEH
 
 - 🛡️ Certified Ethical Hacker & Pentester
