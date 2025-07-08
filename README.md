@@ -36,5 +36,7 @@
 [![Website](https://img.shields.io/badge/Website-iamcurthayman.com-blue?style=flat-square&logo=google-chrome)](https://iamcurthayman.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@curthayman-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/curtishayman)
 [![Instagram](https://img.shields.io/badge/Instagram-@imcurthayman-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/imcurthayman)
+![visitors](https://komarev.com/ghpvc/?username=curthayman&color=blue&style=flat-square)
+
 
 ---
