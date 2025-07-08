@@ -27,6 +27,8 @@
 
 ![Curt's GitHub stats](https://github-readme-stats.vercel.app/api?username=curthayman&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curthayman&layout=compact&theme=dark)
+![Metrics](https://metrics.lecoq.io/curthayman?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&followup=1&lines=1&config.timezone=America%2FNew_York)
+
 
 ---
 
