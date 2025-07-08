@@ -28,8 +28,6 @@
 ![Curt's GitHub stats](https://github-readme-stats.vercel.app/api?username=curthayman&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curthayman&layout=compact&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=curthayman&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 🌐 Connect with me
