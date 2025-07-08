@@ -40,7 +40,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@curthayman-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/curtishayman)
 [![Instagram](https://img.shields.io/badge/Instagram-@imcurthayman-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/imcurthayman)
 
-## 🍕 Buy me a Pizza
+## 🍕 Buy me a Pizza - If any of my tools has helped you, or if you just want to be nice 😉
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Pizza-%F0%9F%8D%95-orange?style=for-the-badge)](https://coff.ee/curtthecoder)
 
