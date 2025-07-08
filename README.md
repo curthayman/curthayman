@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Curt Hayman
+# 👋 Hi, I’m curtthecoder
 
 - 🛡️ Certified Ethical Hacker & Pentester
 - 💻 Web Developer & WordPress Administrator
