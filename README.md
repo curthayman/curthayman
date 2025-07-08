@@ -44,9 +44,6 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Pizza-%F0%9F%8D%95-orange?style=for-the-badge)](https://coff.ee/curtthecoder)
 
-
-## Banner
-
 ![Curt Hayman Cyber Banner](https://raw.githubusercontent.com/curthayman/cyber-portfolio/refs/heads/main/public/images/image.png)
 
 
