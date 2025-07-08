@@ -34,6 +34,6 @@
 ## 🌐 Connect with me
 
 [![Website](https://img.shields.io/badge/Website-curthayman.com-blue?style=flat-square&logo=google-chrome)](https://curthayman.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@curthayman-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/curthayman)
+[![Twitter](https://img.shields.io/badge/Twitter-@curthayman-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/curtishayman)
 
 ---
