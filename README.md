@@ -1,4 +1,3 @@
-![Curt Hayman Cyber Banner](https://raw.githubusercontent.com/curthayman/cyber-portfolio/refs/heads/main/public/images/image.png)
 # ✌🏾 Hi, I’m Curt Hayman, CEH
 
 - 🛡️ Certified Ethical Hacker & Pentester
@@ -37,6 +36,10 @@
 [![Website](https://img.shields.io/badge/Website-iamcurthayman.com-blue?style=flat-square&logo=google-chrome)](https://iamcurthayman.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@curthayman-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/curtishayman)
 [![Instagram](https://img.shields.io/badge/Instagram-@imcurthayman-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/imcurthayman)
+
+## Banner
+
+![Curt Hayman Cyber Banner](https://raw.githubusercontent.com/curthayman/cyber-portfolio/refs/heads/main/public/images/image.png)
 
 
 ---
