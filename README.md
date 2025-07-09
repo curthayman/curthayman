@@ -1,4 +1,4 @@
-# ✌🏾 Hi, I’m Curt Hayman, CEH
+# ✌🏾 What's up!, I’m Curt Hayman, CEH
 
 - 🛡️ Certified Ethical Hacker & Pentester
 - 💻 Web Developer & WordPress Administrator
