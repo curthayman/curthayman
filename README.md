@@ -1,4 +1,4 @@
-# ✌🏾 What's up!, I’m curtthecoder
+# ✌🏾 What's up!, I'm curtthecoder
 
 - 🛡️ Certified Ethical Hacker & Pentester
 - 💻 Web Developer & WordPress Administrator
@@ -6,6 +6,36 @@
 - 🛠️ Love creating tools to help people out!
 - 🔒 *Passionate* about cybersecurity, open source, and building secure, modern web applications
 - 👨🏽‍💻 Read more about me here [![Website](https://img.shields.io/badge/Website-iamcurthayman.com-blue?style=flat-square&logo=google-chrome)](https://iamcurthayman.com)
+
+---
+
+## 🎯 Featured Payloads — Hak5 WiFi Pineapple Pager
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔍 Curly <code>v3.6</code></h3>
+      <p>A comprehensive web reconnaissance & vulnerability scanning payload for the WiFi Pineapple Pager. 17 security modules including SSL/TLS analysis, endpoint discovery, subdomain enumeration, WordPress testing, and more — all powered by <code>curl</code> for portable on-the-go pentesting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Category-Reconnaissance-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Scanning_Modes-6-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Discord_Webhooks-Supported-7289DA?style=flat-square&logo=discord&logoColor=white" />
+      </p>
+      <a href="https://github.com/hak5/wifipineapplepager-payloads/tree/master/library/user/reconnaissance/curly">
+        <img src="https://img.shields.io/badge/View_Payload-Curly-ff6600?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚨 Incident Responder</h3>
+      <p>An incident response payload for the WiFi Pineapple Pager designed to assist with rapid triage and response during security incidents. Stay tuned — coming soon to the official Hak5 payload repository!</p>
+      <p>
+        <img src="https://img.shields.io/badge/Category-Incident_Response-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Coming_Soon-yellow?style=flat-square" />
+      </p>
+      <img src="https://img.shields.io/badge/Coming_Soon-Incident_Responder-333?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -29,16 +59,22 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-
-
-
 ---
 
 ## 📊 GitHub Stats
 
-![Curt's GitHub stats](https://github-readme-stats.vercel.app/api?username=curthayman&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curthayman&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=curthayman&show_icons=true&theme=dark&hide_border=true" alt="Curt's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curthayman&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curthayman&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
+
+## 📈 Activity Graph
+
+[![Curt's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=curthayman&theme=github-dark&hide_border=true)](https://github.com/curthayman)
 
 ---
 
@@ -52,5 +88,4 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Pizza-%F0%9F%8D%95-orange?style=for-the-badge)](https://coff.ee/curtthecoder)
 
-## 
 ---
