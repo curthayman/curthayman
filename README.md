@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🔍 Curly <code>v3.6</code></h3>
+      <h3>🔍 Curly <code>v3.8</code></h3>
       <p>A comprehensive web reconnaissance & vulnerability scanning payload for the WiFi Pineapple Pager. 17 security modules including SSL/TLS analysis, endpoint discovery, subdomain enumeration, WordPress testing, and more — all powered by <code>curl</code> for portable on-the-go pentesting.</p>
       <p>
         <img src="https://img.shields.io/badge/Category-Reconnaissance-blue?style=flat-square" />
