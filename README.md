@@ -10,7 +10,6 @@
 ---
 
 ## 🎯 Featured Payloads — Hak5 WiFi Pineapple Pager
-
 <table>
   <tr>
     <td align="center" width="50%">
