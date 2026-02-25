@@ -3,7 +3,7 @@
 - 🛡️ Certified Ethical Hacker & Pentester
 - 💻 Web Developer & WordPress Administrator
 - 🐞 Bug Bounty Hunter (always learning, always hunting, Mad Curious!)
-- 🛠️ Love creating tools to help people out!
+- 🛠️ Love creating tools to help people out! Specially Payloads for the Hak5 Wifi Pineapple Pager
 - 🔒 *Passionate* about cybersecurity, open source, and building secure, modern web applications
 - 👨🏽‍💻 Read more about me here [![Website](https://img.shields.io/badge/Website-iamcurthayman.com-blue?style=flat-square&logo=google-chrome)](https://iamcurthayman.com)
 
