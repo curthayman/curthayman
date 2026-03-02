@@ -27,14 +27,14 @@
     <td align="center" width="50%">
       <h3>🏘️ The Nosey Neighbor<code>v1.0</code></h3>
       <p>🏆AWARD WINNING!🏆</p>
-      <p>A passive wireless reconnaissance payload for the WiFi Pineapple Pager. No attacks, no deauth — just listening. Discovers APs across 2.4 GHz & 5 GHz (including DFS), detects clients, collects probed SSIDs, identifies device vendors, geo-tags with GPS, captures a traffic snapshot, and compiles everything into a detailed intel report with an automated Intelligence Summary. View Payload on Hak5's <a href="https://payloadhub.com/blogs/payloads/the-nosey-neighbor">website here!</a></p>
+      <p>A passive wireless reconnaissance payload for the WiFi Pineapple Pager. No attacks, no deauth — just listening. Discovers APs across 2.4 GHz & 5 GHz (including DFS), detects clients, collects probed SSIDs, identifies device vendors, geo-tags with GPS, captures a traffic snapshot, and compiles everything into a detailed intel report with an automated Intelligence Summary.</p>
       <p>
         <img src="https://img.shields.io/badge/Category-Reconnaissance-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Modules-15-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Mode-Passive_Only-lightgrey?style=flat-square" />
         <img src="https://img.shields.io/badge/GPS_Tagging-Supported-brightgreen?style=flat-square" />
       </p>
-      <a href="https://github.com/hak5/wifipineapplepager-payloads/tree/master/library/user/reconnaissance/nosey-neighbor">
+      <a href="https://payloadhub.com/blogs/payloads/the-nosey-neighbor">
         <img src="https://img.shields.io/badge/View_Payload-The_Nosey_Neighbor-ff6600?style=for-the-badge&logo=github" />
       </a>
     </td>
