@@ -52,7 +52,17 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <!-- Reserved for next payload -->
+      <h3>🤝 HandyShake <code>v1.0</code></h3>
+      <p>A handshake capture alert payload for the WiFi Pineapple Pager that delivers maximum feedback when a WPA/WPA2 handshake or PMKID is captured. Features multi-sensory alerts (LEDs, vibration, ringtones), offline vendor lookup, GPS logging, device intelligence, duplicate detection, and auto-renamed PCAPs — all with no internet required.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Category-Alerts-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Mode-Passive_Capture-lightgrey?style=flat-square" />
+        <img src="https://img.shields.io/badge/GPS_Tagging-Supported-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Offline-No_Internet_Required-orange?style=flat-square" />
+      </p>
+      <a href="https://github.com/hak5/wifipineapplepager-payloads/pull/298">
+        <img src="https://img.shields.io/badge/View_Payload-HandyShake-ff6600?style=for-the-badge&logo=github" />
+      </a>
     </td>
   </tr>
 </table>
@@ -104,3 +114,4 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Pizza-%F0%9F%8D%95-orange?style=for-the-badge)](https://coff.ee/curtthecoder)
 
 ---
+
