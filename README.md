@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/GPS_Tagging-Supported-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/Offline-No_Internet_Required-orange?style=flat-square" />
       </p>
-      <a href="https://github.com/hak5/wifipineapplepager-payloads/pull/298">
+      <a href="https://github.com/hak5/wifipineapplepager-payloads/tree/master/library/alerts/handshake_captured/handyshake">
         <img src="https://img.shields.io/badge/View_Payload-HandyShake-ff6600?style=for-the-badge&logo=github" />
       </a>
     </td>
