@@ -25,9 +25,9 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>🏘️ The Nosey Neighbor<code>v1.0</code></h3>
+      <h3>🏘️ The Nosey Neighbor<code>v2.0</code></h3>
       <p>🏆AWARD WINNING!🏆</p>
-      <p>A passive wireless reconnaissance payload for the WiFi Pineapple Pager. No attacks, no deauth — just listening. Discovers APs across 2.4 GHz & 5 GHz (including DFS), detects clients, collects probed SSIDs, identifies device vendors, geo-tags with GPS, captures a traffic snapshot, and compiles everything into a detailed intel report with an automated Intelligence Summary.</p>
+      <p>A passive wireless reconnaissance payload for the WiFi Pineapple Pager. No attacks, no deauth, just listening. Discovers APs across 2.4 GHz & 5 GHz (including DFS), detects clients, collects probed SSIDs, identifies device vendors, geo-tags with GPS, captures a traffic snapshot, and compiles everything into a detailed intel report. v2.0 adds Infrastructure Clustering to group APs by manufacturer, Multi-Run Diff to surface new and missing networks between sessions, Hidden SSID Correlation to unmask cloaked networks, Returning Device Detection with a persistent client history database, BLE scanning to detect Axon body cameras in the area, and Auto-Exfil via Discord webhook or ntfy.sh push. An interactive pre-scan menu lets you toggle any feature on the fly. Everything feeds into a weighted Intelligence Summary that classifies the area and profiles the device ecosystem.</p>
       <p>
         <img src="https://img.shields.io/badge/Category-Reconnaissance-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Modules-15-green?style=flat-square" />
