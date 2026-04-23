@@ -1,4 +1,4 @@
-# ✌🏾 What's up!, I'm curtthecoder
+# ✌🏾 What's up! I'm curtthecoder
 
 - 🛡️ Certified Ethical Hacker & Pentester
 - 💻 Web Developer & WordPress Administrator
