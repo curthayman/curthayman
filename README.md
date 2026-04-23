@@ -9,12 +9,12 @@
 
 ---
 
-## 🎯 Featured Payloads — Hak5 WiFi Pineapple Pager
+## 🎯 Featured Payloads - Hak5 WiFi Pineapple Pager
 <table>
   <tr>
     <td align="center" width="50%">
       <h3>🔍 Curly <code>v4.0</code></h3>
-      <p>A comprehensive web reconnaissance & vulnerability scanning payload for the WiFi Pineapple Pager. 17 security modules including SSL/TLS analysis, endpoint discovery, subdomain enumeration, WordPress testing, and more — all powered by <code>curl</code> for portable on-the-go pentesting.</p>
+      <p>A comprehensive web reconnaissance & vulnerability scanning payload for the WiFi Pineapple Pager. 17 security modules including SSL/TLS analysis, endpoint discovery, subdomain enumeration, WordPress testing, and more, all powered by <code>curl</code> for portable on-the-go pentesting.</p>
       <p>
         <img src="https://img.shields.io/badge/Category-Reconnaissance-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Scanning_Modes-6-green?style=flat-square" />
@@ -42,7 +42,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>🚨 Incident Responder</h3>
-      <p>An incident response payload for the WiFi Pineapple Pager designed to assist with rapid triage and response during security incidents. Stay tuned — coming soon to the official Hak5 payload repository!</p>
+      <p>An incident response payload for the WiFi Pineapple Pager designed to assist with rapid triage and response during security incidents. Stay tuned, coming soon to the official Hak5 payload repository!</p>
       <p>
         <img src="https://img.shields.io/badge/Category-Incident_Response-red?style=flat-square" />
         <img src="https://img.shields.io/badge/Status-Coming_Soon-yellow?style=flat-square" />
@@ -53,7 +53,7 @@
     </td>
     <td align="center" width="50%">
       <h3>🤝 HandyShake <code>v1.0</code></h3>
-      <p>A handshake capture alert payload for the WiFi Pineapple Pager that delivers maximum feedback when a WPA/WPA2 handshake or PMKID is captured. Features multi-sensory alerts (LEDs, vibration, ringtones), offline vendor lookup, GPS logging, device intelligence, duplicate detection, and auto-renamed PCAPs — all with no internet required.</p>
+      <p>A handshake capture alert payload for the WiFi Pineapple Pager that delivers maximum feedback when a WPA/WPA2 handshake or PMKID is captured. Features multi-sensory alerts (LEDs, vibration, ringtones), offline vendor lookup, GPS logging, device intelligence, duplicate detection, and auto-renamed PCAPs all with no internet required.</p>
       <p>
         <img src="https://img.shields.io/badge/Category-Alerts-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Mode-Passive_Capture-lightgrey?style=flat-square" />
